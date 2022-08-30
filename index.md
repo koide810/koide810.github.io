@@ -15,6 +15,10 @@ title: Website of Yusuke Koide
 ## 連絡先
 y_koide(at)fm.me.es.osaka-u.ac.jp
 
+
+## 研究業績
+-  Y. Koide and S. Goto, "Flow-induced scission of wormlike micelles in nonionic surfactant solutions under shear flow", J. Chem. Phys., 157 (2022) 084903 https://aip.scitation.org/doi/10.1063/5.0096830
+
 ## 略歴
 2021年3月 修士（工学） 大阪大学基礎工学研究科 博士前期課程 修了
 
