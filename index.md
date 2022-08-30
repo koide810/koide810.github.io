@@ -18,7 +18,7 @@ y_koide(at)fm.me.es.osaka-u.ac.jp
 
 ## 研究業績
 [論文](publication.md)
-
+[受賞](award.md)
 ## 略歴
 2021年3月 修士（工学） 大阪大学基礎工学研究科 博士前期課程 修了
 
