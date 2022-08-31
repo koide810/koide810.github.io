@@ -3,7 +3,7 @@ layout: default
 title: Conference
 ---
 # 2022
-- Y. Koide, S. Goto, "Flow-Induced Scission of Surfactant Micelles under Shear Flow", USNC/TAM 2022, Austin, 2022 June (Oral)
+- Y. Koide, S. Goto, "Flow-Induced Scission of Surfactant Micelles under Shear Flow", USNC/TAM 2022, Austin, 2022年6月（口頭発表）
 - 小井手祐介，後藤晋，"一様せん断流における界面活性剤ミセルの分裂と配向"，日本レオロジー学会第49年会，オンライン，2022年5月（ポスター発表）
 
 # 2021
