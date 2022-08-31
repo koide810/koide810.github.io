@@ -8,7 +8,7 @@ title: Website of Yusuke Koide
 ## 所属
 大阪大学基礎工学研究科博士後期課程2年
 
-流体力学グループ（後藤研究室）
+[流体力学グループ（後藤研究室）](https://fm.me.es.osaka-u.ac.jp/)
 
 日本学術振興会 特別研究員（DC1）
 
