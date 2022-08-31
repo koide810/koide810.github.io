@@ -1,4 +1,7 @@
+---
 title: Website of Yusuke Koide
+---
+
 ## 氏名
 小井手 祐介（Yusuke Koide）
 
